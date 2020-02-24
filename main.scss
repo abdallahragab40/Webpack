@@ -1,0 +1,9 @@
+@import "./style.css";
+@import "~bootstrap/scss/bootstrap";
+
+$bgColor: dodgerblue;
+
+#calculator,
+#numbers {
+  background-color: $bgColor;
+}
