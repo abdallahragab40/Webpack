@@ -2,7 +2,9 @@
 
 
 An example of webpack workflow 
-Dealing with ##[HTML-CSS-SASS-JS-TS-BOOTSTRAP]
+
+Dealing with 
+## HTML-CSS-SASS-BOOTSTRAP-JS-TS
 
 ## How to use
 
